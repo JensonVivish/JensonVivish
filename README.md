@@ -103,8 +103,9 @@ Technology-driven solutions focused on innovation, automation, and digital trans
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=JensonVivish&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JensonVivish&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 ---
 
 ## 💭 Philosophy
